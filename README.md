@@ -105,6 +105,28 @@ Agrikul is a **next-generation B2B agricultural platform** that bridges the gap 
 * Distance and crop filters
 
 ---
+## 🔍 Preview
+
+#### 🧑‍🌾 Farmer & Buyer Dashboards
+
+<img src="./public/Farmer%20Dashboard.png" alt="Farmer Dashboard" width="1200"/>
+<img src="./public/Buyer%20Dashboard.png" alt="Buyer Dashboard" width="1200"/>
+
+#### 💬 Chat Features
+
+<img src="./public/Chat%20window.png" alt="Chat Window" width="1200"/>
+<img src="./public/Chatbot.png" alt="Chatbot" width="1200"/>
+
+#### 📊 Dashboard & Market
+
+<img src="./public/Dashboard.png" alt="Dashboard" width="1200"/>
+<img src="./public/Market%20price.png" alt="Market Price" width="1200"/>
+
+#### 💸 Payments & Crop Recommendation
+
+<img src="./public/Payments.png" alt="Payments" width="1200"/>
+<img src="./public/croprecommendation.png" alt="Crop Recommendation" width="1200"/>
+
 
 ## 🧾 Project Structure
 
